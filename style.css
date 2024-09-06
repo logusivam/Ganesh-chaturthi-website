@@ -52,6 +52,11 @@ li
     padding: 8px;
 }
 
+text
+{
+    top: 5px;
+}
+
 .container
 {
     display: flex;
