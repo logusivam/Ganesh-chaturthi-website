@@ -18,5 +18,9 @@ This website is dedicated to Ganesh Chaturthi, featuring unknown facts about Lor
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/ganesh-chaturthi-website.git
+   git clone https://github.com/yourusername/Ganesh-Chaturthi-website.git
    ```
+
+2. **Navigate to the Project Directory:**
+   ```
+   cd Ganesh-Chaturthi-website
