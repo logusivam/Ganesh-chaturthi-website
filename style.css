@@ -55,7 +55,9 @@ li
 .buttons span
 {
     color: #fbfbfb;
-    margin-top: 150px; 
+    margin-top: 150px;
+    position: absolute; 
+    margin-right: 0;
 }
 
 .container
