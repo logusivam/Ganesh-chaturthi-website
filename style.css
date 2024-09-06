@@ -52,11 +52,10 @@ li
     padding: 8px;
 }
 
-span
+.buttons span
 {
     color: #fbfbfb;
-    margin-top: 150px;
-    margin-right: 100px;
+    margin-top: 150px; 
 }
 
 .container
