@@ -35,8 +35,25 @@ h1
 
 ul
 {
-    list-style-image: url('https://png.pngtree.com/png-clipart/20230213/ourmid/pngtree-colorful-diwali-diya-concept-png-image_6596176.png');
+    list-style-image: url('assets/diya.png');
 }
 
+li
+{
+    margin-bottom: 10px;
+}
 
+/* buttons images */
+.buttons
+{
+    flex-basis: 33%;
+    min-width: 180px;
+    margin: 8px;
+    padding: 8px;
+}
 
+.container
+{
+    display: flex;
+    flex-direction: row;
+}
