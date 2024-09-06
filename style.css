@@ -24,5 +24,12 @@ h1
 
 .body-text
 {
-    
+    color: #00bfff;
+    font-family: alice;
 }
+
+.ul
+{
+    font-weight: bold;
+}
+
